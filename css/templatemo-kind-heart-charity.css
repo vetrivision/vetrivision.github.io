@@ -130,7 +130,7 @@ h4 {
 }
 
 h5 {
-  color: # ;
+  color: #eea107  ;
   font-size: var(--h5-font-size);
 }
 
@@ -162,7 +162,7 @@ a {
 }
 
 a:hover {
-  color: # ;
+  color: #eea107  ;
 }
 
 b,
@@ -329,14 +329,14 @@ strong {
 }
 
 .custom-btn:hover {
-  background: # ;
+  background: #eea107  ;
   color: var(--white-color);
 }
 
 .custom-border-btn {
   background: transparent;
   border: 2px solid var(--custom-btn-bg-color);
-  color: # ;
+  color: #eea107  ;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link.custom-btn:hover,
@@ -358,7 +358,7 @@ strong {
 }
 
 .navbar-brand {
-  color: # ;
+  color: #eea107  ;
   font-size: var(--h6-font-size);
   font-weight: var(--font-weight-bold);
 }
@@ -400,7 +400,7 @@ strong {
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link:hover {
   background: transparent;
-  color: # ;
+  color: #eea107  ;
 }
 
 .dropdown-menu {
@@ -431,7 +431,7 @@ strong {
 .dropdown-item:focus, 
 .dropdown-item:hover {
   background: transparent;
-  color: # ;
+  color: #eea107  ;
 }
 
 .dropdown-toggle::after {
@@ -523,6 +523,7 @@ strong {
 
 .navbar-toggler .navbar-toggler-icon::after {
   top: 8px;
+  bottom: 0px;
 }
 
 
@@ -530,7 +531,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background: #eea107;
+  background: #eea107  ;
   padding-top: 15px;
   padding-bottom: 10px;
 }
@@ -575,9 +576,9 @@ strong {
 }
 
 #hero-slide .carousel-caption {
-  background: var(--white-color);
+  background: #eea107;
   clip-path: polygon(100% 100%, 100% 150px, 0 100%);
-  color: var(--secondary-color);
+  color: #ffffff;
   top: 1px;
   bottom: -1px;
   right: 0;
@@ -625,7 +626,7 @@ strong {
 
 .carousel-control-next-icon:hover, 
 .carousel-control-prev-icon:hover {
-  background-color: # ;
+  background-color: #eea107  ;
 }
 
 
@@ -660,7 +661,7 @@ strong {
 }
 
 .featured-block-text {
-  color: # ;
+  color: #eea107  ;
   font-size: var(--h5-font-size);
   margin-top: 20px;
   transition: all 0.5s;
@@ -705,7 +706,7 @@ strong {
 
 .counter-number,
 .counter-number-text {
-  color: # ;
+  color: #eea107  ;
   font-size: var(--h1-font-size);
   font-weight: var(--font-weight-bold);
   line-height: normal;
@@ -723,7 +724,7 @@ strong {
 
 .volunteer-section::after {
   content: "";
-  background: # ;
+  background: #eea107  ;
   border-radius: 50%;
   position: absolute;
   bottom: -110px;
@@ -876,7 +877,7 @@ blockquote::before {
 }
 
 .category-block-link:hover {
-  color: # ;
+  color: #eea107  ;
 }
 
 .badge {
@@ -911,7 +912,7 @@ blockquote::before {
 
 .cta-section::before {
   content: "";
-  background-color: # ;
+  background-color: #eea107  ;
   border-radius: 50%;
   position: absolute;
   top: -100px;
@@ -946,7 +947,7 @@ blockquote::before {
 
 .testimonial-section::before {
   content: "";
-  background-color: # ;
+  background-color: #eea107  ;
   border-radius: 50%;
   position: absolute;
   top: -100px;
@@ -1003,7 +1004,7 @@ blockquote::before {
 }
 
 #testimonial-carousel .carousel-name {
-  background: # ;
+  background: #eea107  ;
   border-radius: var(--border-radius-medium);
   position: relative;
   overflow: hidden;
@@ -1021,7 +1022,7 @@ blockquote::before {
   margin: auto;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-bottom: 10px solid # ;
+  border-bottom: 10px solid #eea107  ;
 }
 
 .carousel-name-title {
@@ -1312,7 +1313,7 @@ blockquote::before {
 }
 
 .site-footer .custom-btn:hover {
-  background: # ;
+  background: #eea107  ;
 }
 
 
@@ -1368,7 +1369,7 @@ blockquote::before {
 }
 
 .social-icon-link:hover {
-  background: # ;
+  background: #eea107  ;
   color: var(--white-color);
 }
 
