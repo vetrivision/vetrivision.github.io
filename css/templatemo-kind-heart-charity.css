@@ -576,7 +576,7 @@ strong {
 }
 
 #hero-slide .carousel-caption {
-  background: #eea107;
+  background: #c1c1c1;
   clip-path: polygon(100% 100%, 100% 150px, 0 100%);
   color: #ffffff;
   top: 1px;
